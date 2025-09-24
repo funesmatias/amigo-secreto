@@ -9,11 +9,25 @@ Amigo Secreto es una aplicación web desarrollada con HTML, CSS y JavaScript. Pe
 - Mostrar la lista de amigos agregados.
 - Sortear aleatoriamente un nombre de la lista.
 
-## Tecnologías utilizadas
+## Capturas de pantalla
 
-- HTML5
-- CSS3
-- JavaScript
+### 1. Formulario para agregar nombres
+
+Formulario donde el usuario puede ingresar nombres. Se valida que el campo no esté vacío y que no se repitan nombres.
+
+![Formulario para agregar nombres](assets/AmigoSecreto1.jpg)
+
+### 2. Lista de amigos agregados
+
+Vista de la lista dinámica que muestra los nombres ingresados correctamente.
+
+![Lista de amigos agregados](assets/AmigoSecreto2.jpg)
+
+### 3. Resultado del sorteo
+
+Resultado del sorteo mostrando el nombre elegido aleatoriamente como “amigo secreto”.
+
+![Resultado del sorteo](assets/AmigoSecreto3.jpg)
 
 ## Cómo usar
 
